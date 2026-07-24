@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-s25txa.pukekohetraders.co.nz/sitemap.xml
